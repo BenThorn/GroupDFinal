@@ -1,0 +1,34 @@
+﻿Group D
+4/1/2019
+
+
+Ben Thorn
+
+
+Worked on: Ideas for project, research into possible SDKs for Unity/Unreal
+Will work on: Further research into Unreal in order to determine the platform that we will be proceeding with.
+Issues: None so far
+
+
+
+
+Philip Petronis
+
+
+Worked on: Project idea proposals, Unreal Engine research and organizing documentation.
+What’s next: Test Unreal VR to see if hardware/software works.
+Issues: Nothing yet.
+
+
+Kiernan Brown
+Worked on: Project idea brainstorming, reading through Unreal documentation to get familiar with it
+Will work on: Research into Render Textures for overhead camera
+Blocking Issues: None
+
+
+
+
+Austin Duvin
+
+
+Absent: Let us know that he wasn’t feeling well.

@@ -1,0 +1,27 @@
+Group D
+4/3/2019
+
+Ben Thorn
+
+Worked on: Seeing if Unreal is able to support our current core mechanic of the overhead camera.
+Will work on: Finalizing the idea of what we want our project to be so we can start building towards a common goal.
+Blocking issues: None as of yet
+
+Kiernan Brown
+Worked on: Reading Unreal documentation for RenderToTexture blueprint (would be used for the overhead camera)
+Will work on: Adding project goals/milestones as issues on the Github board
+Blocking Issues: None
+
+
+Philip Petronis
+
+Worked on: Set up WIndowsMR on machine and Unreal. Updated Unreal Engine and Windows 10 versions.
+Will work on: Getting VR Preview working in Unreal Editor.
+Blocking issues: WindowsMR decided it didn’t want to work properly and I had to redo controller setup, 
+figuring out Unreal VR plugins, and updating Windows version took a very long time.
+
+Austin Duvin
+
+Worked on: Reading Unreal documentation to familiarize myself with the engine and how it handles VR
+Will work on: Will continue reading documentation and practicing in Unreal
+Blocking issues: None

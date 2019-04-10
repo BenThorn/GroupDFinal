@@ -1,0 +1,30 @@
+Group D
+4/10/2019
+
+
+Ben Thorn (absent)
+
+Worked on: Planning on how to implement core gameplay mechanics, such as a moveable drone, and trying to use Unreal’s blueprints to being building them
+Will work on: Getting situated with the group’s Unreal project from Github, and seeing if I can push some of the mechanics up
+Blocking issues: None right now
+
+
+Kiernan Brown
+
+Worked on: Updating the pawn blueprint to fix an issue with motion controllers.
+Will work on: Player movement tied to motion controllers thumbstick
+Blocking Issues: None right now
+
+
+Philip Petronis
+
+Worked on: Planning environment, but mostly other class work
+Will work on: Full functionality of Windows MR headset and controllers, and rough draft of world.
+Blocking issues: MR headset and controller setup isn’t straightforward.
+
+
+Austin Duvin
+
+Worked on: Working out rendering a camera view to a texture
+Will work on: Tinker with controls and input
+Blocking issues: None

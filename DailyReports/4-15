@@ -1,0 +1,32 @@
+Group D
+4/15/2019
+
+
+Ben Thorn 
+
+Worked on: Taking the locomotion controls and trying to apply them to the ‘drone’ which has the separate camera attached to it.
+Will work on: Continuing to develop the drone, and taking it further to possible implement look interactions base off the drone’s camera.
+Blocking issues: Had a lot of trouble with Unreal trying to get the drone to work- will consult my group
+
+
+Kiernan Brown
+
+Worked on: Look based interactions from the HMD camera.
+Will work on: Toggle buttons that work with the look based interactions, maybe also look based interactions from the drone camera.
+Blocking Issues: None so far
+
+
+Philip Petronis
+
+Worked on: Locomotion and slight tweaks to WindowsMR control in-game.
+Will work on: Level creation/design; tuning locomotion controls.
+Blocking issues: More classes more problems.
+
+
+Austin Duvin
+
+Worked on: Implemented camera rendering to texture into the project scene
+Will work on: Work on panel functionality
+Blocking issues: None
+
+

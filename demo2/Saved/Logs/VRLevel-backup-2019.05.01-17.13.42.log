@@ -1,0 +1,826 @@
+﻿Log file open, 05/01/19 04:24:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRLevel
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.367317
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OpenCVLensDistortion
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MixedRealityCaptureFramework
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMixedReality
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.174s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=brt4557 -epicuserid=2c903a4a89bb4bce91c36f9f214ef532 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogLinker: AddRedirectList(C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/MixedRealityCaptureFramework.ini) has substring redirect /MixedRealityFramework/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Engine.ini]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Engine.ini]
+[2019.05.01-08.24.21:460][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Engine.ini]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.01-08.24.21:460][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Engine.ini]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.01-08.24.21:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Engine.ini]
+[2019.05.01-08.24.21:461][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Engine.ini]
+[2019.05.01-08.24.21:465][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.01-08.24.21:465][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.01-08.24.21:466][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.01-08.24.21:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.01-08.24.21:467][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.01-08.24.21:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.01-08.24.21:497][  0]LogHAL: Display: Platform has ~ 8 GB [8461365248 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.01-08.24.21:497][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.01-08.24.21:497][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.01-08.24.21:498][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.01-08.24.21:498][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.01-08.24.21:498][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.01-08.24.21:498][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.01-08.24.21:499][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.01-08.24.21:500][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.01-08.24.21:501][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.01-08.24.21:502][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-08.24.21:502][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.01-08.24.21:502][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.01-08.24.21:502][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.01-08.24.21:502][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.01-08.24.21:502][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Config/Windows/Engine.ini]
+[2019.05.01-08.24.21:503][  0]LogInit: Computer: MORGAN
+[2019.05.01-08.24.21:503][  0]LogInit: User: brt20
+[2019.05.01-08.24.21:503][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.01-08.24.21:503][  0]LogInit: High frequency timer resolution =1.757814 MHz
+[2019.05.01-08.24.21:504][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.01-08.24.21:504][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.01-08.24.21:504][  0]LogMemory: Process Physical Memory: 105.55 MB used, 105.55 MB peak
+[2019.05.01-08.24.21:504][  0]LogMemory: Process Virtual Memory: 95.79 MB used, 95.79 MB peak
+[2019.05.01-08.24.21:504][  0]LogMemory: Physical Memory: 4977.86 MB used,  3091.53 MB free, 8069.39 MB total
+[2019.05.01-08.24.21:504][  0]LogMemory: Virtual Memory: 4676.66 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.05.01-08.24.21:597][  0]LogInit: Using OS detected language (en-US).
+[2019.05.01-08.24.21:597][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.01-08.24.21:602][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.01-08.24.22:299][  0]LogStreaming: Display: Took  0.702s to InitEngineTextLocalization.
+[2019.05.01-08.24.22:299][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.01-08.24.22:351][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.01-08.24.22:351][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.01-08.24.22:621][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.01-08.24.22:679][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2019.05.01-08.24.22:679][  0]LogD3D11RHI:       2013/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.01-08.24.22:693][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.05.01-08.24.22:693][  0]LogD3D11RHI:       128/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.01-08.24.22:696][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.01-08.24.22:696][  0]LogD3D11RHI:       0/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.01-08.24.22:696][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.01-08.24.22:731][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.01-08.24.22:731][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.01-08.24.22:731][  0]LogWindows: EnumDisplayDevices:
+[2019.05.01-08.24.22:731][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.05.01-08.24.22:731][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.05.01-08.24.22:732][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.05.01-08.24.22:732][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.01-08.24.22:732][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2019.05.01-08.24.22:732][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.01-08.24.22:732][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.01-08.24.22:732][  0]LogRHI: Texture pool is 1409 MB (70% of 2013 MB)
+[2019.05.01-08.24.22:757][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.01-08.24.22:769][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.01-08.24.23:280][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.01-08.24.23:295][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.01-08.24.23:310][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.01-08.24.23:325][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.01-08.24.23:339][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.01-08.24.23:353][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.01-08.24.23:368][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.01-08.24.23:408][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.01-08.24.23:421][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-08.24.23:514][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.01-08.24.23:585][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.01-08.24.23:585][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.01-08.24.23:657][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.01-08.24.23:657][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.01-08.24.23:684][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.01-08.24.23:707][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.01-08.24.23:721][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.01-08.24.23:735][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.01-08.24.23:786][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.01-08.24.23:786][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.01-08.24.23:786][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.01-08.24.23:867][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Intermediate/Shaders/WorkingDirectory/18192/).
+[2019.05.01-08.24.23:868][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/brt20/AppData/Local/Temp/UnrealShaderWorkingDir/4F3332AD4608D92492CB6BA40212F79F/'.
+[2019.05.01-08.24.23:871][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.01-08.24.23:871][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.01-08.24.23:871][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.01-08.24.24:460][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.01-08.24.24:534][  0]LogDerivedDataCache: Loaded boot cache 0.07s 85MB C:/Users/brt20/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.01-08.24.24:534][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/brt20/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.01-08.24.24:534][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.01-08.24.24:534][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.01-08.24.24:534][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.01-08.24.24:534][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.01-08.24.24:553][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.01-08.24.24:553][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.01-08.24.24:553][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.01-08.24.24:565][  0]LogDerivedDataCache: Using Local data cache path C:/Users/brt20/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.01-08.24.24:565][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.01-08.24.24:565][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.01-08.24.24:595][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.01-08.24.24:597][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.01-08.24.24:597][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.01-08.24.24:693][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2019.05.01-08.24.25:149][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.01-08.24.25:314][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.01-08.24.25:319][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.01-08.24.25:319][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.01-08.24.25:319][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.01-08.24.25:319][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.01-08.24.25:334][  0]LogNetVersion: VRLevel 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 341503009)
+[2019.05.01-08.24.26:345][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.182733 seconds
+[2019.05.01-08.24.26:366][  0]LogUObjectArray: 39679 objects as part of root set at end of initial load.
+[2019.05.01-08.24.26:366][  0]LogUObjectAllocator: 6899216 out of 0 bytes used by permanent object pool.
+[2019.05.01-08.24.26:366][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.01-08.24.27:537][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.01-08.24.27:554][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.01-08.24.27:778][  0]SourceControl: Source control is disabled
+[2019.05.01-08.24.27:778][  0]SourceControl: Source control is disabled
+[2019.05.01-08.24.27:780][  0]SourceControl: Source control is disabled
+[2019.05.01-08.24.27:781][  0]SourceControl: Source control is disabled
+[2019.05.01-08.24.27:964][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.01-08.24.28:286][  0]LogEngine: Initializing Engine...
+[2019.05.01-08.24.28:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.01-08.24.28:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.01-08.24.28:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.01-08.24.28:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.01-08.24.28:872][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.01-08.24.28:898][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.01-08.24.29:037][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-08.24.29:182][  0]LogInit: FAudioDevice initialized.
+[2019.05.01-08.24.29:183][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.01-08.24.29:277][  0]LogDerivedDataCache: Saved boot cache 0.09s 85MB C:/Users/brt20/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.01-08.24.29:303][  0]LogInit: Texture streaming: Enabled
+[2019.05.01-08.24.29:329][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.01-08.24.29:346][  0]LogInit: Transaction tracking system initialized
+[2019.05.01-08.24.29:381][  0]BlueprintLog: New page: Editor Load
+[2019.05.01-08.24.29:483][  0]LocalizationService: Localization service is disabled
+[2019.05.01-08.24.30:061][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/' took 0.01s
+[2019.05.01-08.24.30:061][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.01-08.24.30:061][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.01-08.24.30:061][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.01-08.24.30:061][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.01-08.24.30:061][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.01-08.24.30:061][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.01-08.24.30:061][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.01-08.24.30:269][  0]SourceControl: Source control is disabled
+[2019.05.01-08.24.30:269][  0]Cmd: MAP LOAD FILE="../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-08.24.30:270][  0]LightingResults: New page: Lighting Build
+[2019.05.01-08.24.30:273][  0]MapCheck: New page: Map Check
+[2019.05.01-08.24.30:273][  0]LightingResults: New page: Lighting Build
+[2019.05.01-08.24.30:424][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.05.01-08.24.30:431][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-08.24.30:455][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-08.24.30:456][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2019.05.01-08.24.30:456][  0]LogFileHelpers: Loading map 'StartupMap' took 0.187
+[2019.05.01-08.24.30:595][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-08.24.30:611][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-08.24.30:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-08.24.30:632][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-08.24.30:643][  0]LogCollectionManager: Loaded 0 collections in 0.003197 seconds
+[2019.05.01-08.24.30:660][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Collections/' took 0.01s
+[2019.05.01-08.24.30:660][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/Developers/brt20/Collections/' took 0.00s
+[2019.05.01-08.24.30:660][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/Collections/' took 0.00s
+[2019.05.01-08.24.30:660][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.01-08.24.30:672][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2673 classes and 631 folders.
+[2019.05.01-08.24.30:683][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.01-08.24.30:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-08.24.30:770][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.01-08.24.30:777][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.01-08.24.30:792][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.01-08.24.30:795][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.01-08.24.30:805][  0]LogSlate: Took 0.001063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.01-08.24.30:920][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 26 NumSamples 1 (Frame:1).
+[2019.05.01-08.24.31:208][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.01-08.24.31:208][  0]LogLoad: (Engine Initialization) Total time: 12.16 seconds
+[2019.05.01-08.24.31:208][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.01-08.24.31:224][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.01-08.24.31:264][  0]LogAssetRegistry: Asset discovery search completed in 6.5936 seconds
+[2019.05.01-08.24.31:266][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.01-08.24.31:266][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.05.01-08.24.31:268][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.01-08.24.31:307][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-08.24.31:320][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/' took 0.08s
+[2019.05.01-08.24.39:022][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.24.56:297][427]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-08.24.56:313][427]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/Drone2Test.Drone2Test
+[2019.05.01-08.25.00:039][427]LogSlate: Window 'Save Content' being destroyed
+[2019.05.01-08.25.05:261][734]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.01-08.25.08:530][961]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.05.01-08.25.08:544][961]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap
+[2019.05.01-08.25.08:597][961]Cmd: MAP LOAD FILE="../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-08.25.08:598][961]LightingResults: New page: Lighting Build
+[2019.05.01-08.25.08:599][961]LoadErrors: New page: Loading map: HMDLocomotionMap.umap
+[2019.05.01-08.25.08:601][961]MapCheck: New page: Map Check
+[2019.05.01-08.25.08:601][961]LightingResults: New page: Lighting Build
+[2019.05.01-08.25.08:656][961]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-08.25.08:720][961]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-08.25.08:720][961]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2019.05.01-08.25.08:720][961]LogFileHelpers: Loading map 'HMDLocomotionMap' took 0.123
+[2019.05.01-08.25.08:828][963]LogRenderer: Reallocating scene render targets to support 964x720 Format 10 NumSamples 1 (Frame:1).
+[2019.05.01-08.25.18:792][844]LogAIModule: Creating AISystem for world Drone2Test
+[2019.05.01-08.25.29:124][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.25.40:958][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.25.42:995][744]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/lambert1'
+[2019.05.01-08.25.42:996][744]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/lambert1' while loading ../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Models/Keycard_01.uasset.
+[2019.05.01-08.25.42:996][744]LoadErrors: Error: /Game/VirtualRealityBP/Models/Keycard_01 : Can't find file for asset. /Game/VirtualRealityBP/Maps/lambert1
+[2019.05.01-08.25.42:996][744]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/lambert1'
+[2019.05.01-08.25.42:996][744]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/lambert1' while loading ../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Models/Keycard_01.uasset.
+[2019.05.01-08.25.43:421][744]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/lambert1'
+[2019.05.01-08.25.43:421][744]LoadErrors: Failed to load /Game/VirtualRealityBP/Maps/lambert1.lambert1 Referenced by Keycard_01
+[2019.05.01-08.25.43:421][744]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/lambert1' while loading NULL.
+[2019.05.01-08.25.43:422][744]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/lambert1'
+[2019.05.01-08.25.43:422][744]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/lambert1' while loading NULL.
+[2019.05.01-08.25.43:876][744]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.05.01-08.25.43:893][744]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.05.01-08.25.47:248][744]LogSlate: Window 'Save Content' being destroyed
+[2019.05.01-08.25.47:269][744]Cmd: MAP LOAD FILE="../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-08.25.47:273][744]LightingResults: New page: Lighting Build
+[2019.05.01-08.25.47:275][744]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.05.01-08.25.47:280][744]MapCheck: New page: Map Check
+[2019.05.01-08.25.47:280][744]LightingResults: New page: Lighting Build
+[2019.05.01-08.25.53:015][744]LogSlate: Window 'Message' being destroyed
+[2019.05.01-08.25.53:043][744]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-08.25.53:152][744]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-08.25.53:152][744]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.279ms to complete.
+[2019.05.01-08.25.53:152][744]LogFileHelpers: Loading map 'MotionControllerMap' took 5.886
+[2019.05.01-08.26.23:521][179]LogEditorViewport: Clicking on Actor (context menu): DestructibleWall_C (DestructibleWall)
+[2019.05.01-08.26.23:606][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-08.26.25:024][259]Cmd: EDCALLBACK SURFPROPS
+[2019.05.01-08.26.26:375][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-08.27.50:135][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.27.58:001][531]LogEditorViewport: Clicking on Actor (LMB): Drone_Body_Blueprint_C (Drone_Body_Blueprint)
+[2019.05.01-08.27.58:516][544]LogEditorViewport: Clicking on Actor (LMB): Drone_Body_Blueprint_C (Drone_Body_Blueprint)
+[2019.05.01-08.28.01:423][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.28.40:389][326]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Drone_Camera_Blueprint.Drone_Camera_Blueprint
+[2019.05.01-08.28.41:339][326]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 117 classes and 0 folders.
+[2019.05.01-08.28.42:996][326]LogSlate: Took 0.006814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.01-08.28.43:233][327]LogSlate: Took 0.007505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.01-08.29.36:731][848]LogSlate: Window 'Drone_Camera_Blueprint' being destroyed
+[2019.05.01-08.29.36:747][848]LogSlate: Window 'Drone_Camera_Blueprint' being destroyed
+[2019.05.01-08.29.42:479][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.05.01-08.30.05:143][666]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.05.01-08.30.06:044][712]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.05.01-08.30.09:068][914]LogEditorViewport: Clicking on Actor (LMB): Drone_Body_Blueprint_C (Drone_Body_Blueprint)
+[2019.05.01-08.30.12:533][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.30.18:937][580]Cmd: DUPLICATE
+[2019.05.01-08.30.18:937][580]Cmd: ACTOR DUPLICATE
+[2019.05.01-08.30.21:794][748]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.01-08.30.26:771][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.30.41:820][944]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-08.31.04:664][375]LogEditorViewport: Clicking on Actor (LMB): Drone_Body_Blueprint_C (Drone_Body_Blueprint2)
+[2019.05.01-08.31.32:543][167]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.01-08.31.34:422][288]LogEditorViewport: Clicking on Actor (LMB): DestructibleWall_C (DestructibleWall)
+[2019.05.01-08.31.38:598][561]LogEditorViewport: Clicking on Actor (LMB): Drone_Body_Blueprint_C (Drone_Body_Blueprint2)
+[2019.05.01-08.31.45:446][985]LogEditorViewport: Clicking on Actor (LMB): Drone_Body_Blueprint_C (Drone_Body_Blueprint2)
+[2019.05.01-08.31.56:020][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.31.56:105][661]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint.Drone_Body_Blueprint
+[2019.05.01-08.33.11:944][134]LogSlate: Window 'Drone_Body_Blueprint*' being destroyed
+[2019.05.01-08.33.11:961][134]LogSlate: Window 'Drone_Body_Blueprint*' being destroyed
+[2019.05.01-08.33.13:382][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.33.50:393][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.33.50:483][378]LogTemp: Repeating last play command: VR Preview
+[2019.05.01-08.33.50:533][378]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.01-08.33.50:533][378]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.01-08.33.50:547][378]LogPlayLevel: [PlayLevel] Compiling Drone_Body_Blueprint before play...
+[2019.05.01-08.33.50:929][378]LogPlayLevel: PlayLevel: Blueprint regeneration took 396 ms (1 blueprints)
+[2019.05.01-08.33.50:932][378]PIE: New page: PIE session: MotionControllerMap (May 1, 2019, 12:33:50 AM)
+[2019.05.01-08.33.50:947][378]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.05.01-08.33.50:970][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023814s)
+[2019.05.01-08.33.50:971][378]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.05.01-08.33.50:972][378]LogPlayLevel: PIE: World Init took: (0.001959s)
+[2019.05.01-08.33.50:972][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.026488s)
+[2019.05.01-08.33.51:032][378]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-08.33.51:061][378]LogInit: FAudioDevice initialized.
+[2019.05.01-08.33.51:074][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-08.33.51:191][378]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.05.01-08.33.51:192][378]LogLoad: Game class is 'GameModeBase'
+[2019.05.01-08.33.51:205][378]LogPhysics: Error: PHYSX: (d:\build\++ue4\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2019.05.01-08.33.51:207][378]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.05.01-04.33.51
+[2019.05.01-08.33.51:212][378]LogWorld: Bringing up level for play took: 0.015457
+[2019.05.01-08.33.51:249][378]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.05.01-08.33.51:263][378]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.707
+[2019.05.01-08.33.51:263][378]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.01-08.33.51:310][378]LogRenderer: Reallocating scene render targets to support 1024x720 Format 26 NumSamples 1 (Frame:1).
+[2019.05.01-08.33.55:453][593]LogSlate: Window 'VRLevel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.01-08.33.55:462][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.01-08.33.55:504][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-08.33.55:504][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.01-08.33.55:587][594]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.01-08.34.03:694][179]LogEditorViewport: Clicking on Actor (LMB): Drone_Body_Blueprint_C (Drone_Body_Blueprint2)
+[2019.05.01-08.34.14:485][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.34.16:039][910]LogEditorViewport: Clicking on Actor (LMB): Drone_Body_Blueprint_C (Drone_Body_Blueprint2)
+[2019.05.01-08.34.18:020][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.35.08:849][917]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Drone_Camera_Blueprint.Drone_Camera_Blueprint
+[2019.05.01-08.35.50:713][761]LogSlate: Window 'Drone_Camera_Blueprint' being destroyed
+[2019.05.01-08.35.50:731][761]LogSlate: Window 'Drone_Camera_Blueprint' being destroyed
+[2019.05.01-08.36.08:961][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.05.01-08.36.23:138][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.36.50:821][318]LogEditorViewport: Clicking on Actor (LMB): Drone_Body_Blueprint_C (Drone_Body_Blueprint2)
+[2019.05.01-08.36.54:034][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.36.59:432][827]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint.Drone_Body_Blueprint
+[2019.05.01-08.37.55:470][475]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2019.05.01-08.37.55:470][475]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2019.05.01-08.37.55:470][475]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2019.05.01-08.37.55:470][475]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2019.05.01-08.37.55:470][475]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2019.05.01-08.37.55:470][475]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2019.05.01-08.37.55:470][475]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2019.05.01-08.39.13:512][867]LogEditorTransaction: Undo Delete current selection
+[2019.05.01-08.40.14:974][501]LogSavePackage: Moving '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/MotionControllerMap_Auto13112D60941F9C93A2D0A57A4F4EA46E3.tmp' to '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2019.05.01-08.40.14:996][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.543
+[2019.05.01-08.40.14:996][501]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.543
+[2019.05.01-08.40.14:999][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint] ([1] browsable assets)...
+[2019.05.01-08.40.15:043][501]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint.Drone_Body_Blueprint]
+[2019.05.01-08.40.15:043][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint]
+[2019.05.01-08.40.15:176][501]LogSavePackage: Moving '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Drone_Body_Blueprint_Auto185BA159E40E1EF828C6914B3C5A3B873.tmp' to '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint_Auto1.uasset'
+[2019.05.01-08.40.15:181][501]LogFileHelpers: Auto-saving content packages took 0.181
+[2019.05.01-08.40.32:909][251]LogSavePackage: Moving '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Drone_Body_Blueprint9AE61E674AA1A38DE31636A3F02E740E.tmp' to '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Blueprints/Drone_Body_Blueprint.uasset'
+[2019.05.01-08.40.42:631][646]LogSlate: Window 'Drone_Body_Blueprint' being destroyed
+[2019.05.01-08.40.42:647][646]LogSlate: Window 'Drone_Body_Blueprint' being destroyed
+[2019.05.01-08.40.44:476][734]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint.Drone_Body_Blueprint
+[2019.05.01-08.40.50:430][970]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.40.50:784][975]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.51:557][999]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.40.52:168][ 15]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.52:610][ 30]LogEditorTransaction: Undo Delete current selection
+[2019.05.01-08.40.53:075][ 45]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.53:435][ 56]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.53:832][ 68]LogEditorTransaction: Undo Paste clipboard contents
+[2019.05.01-08.40.54:159][ 77]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.54:541][ 89]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.54:869][ 99]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.55:158][107]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.55:531][119]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.55:932][125]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.56:591][144]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.58:707][223]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.40.59:483][249]LogEditorTransaction: Undo Delete current selection
+[2019.05.01-08.41.02:700][368]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.41.03:300][379]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.41.03:839][392]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.41.04:486][411]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.41.04:979][426]LogEditorTransaction: Undo Add Node
+[2019.05.01-08.41.05:150][429]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.41.05:310][435]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.41.05:493][442]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.01-08.41.05:671][446]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.01-08.41.05:849][451]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.01-08.41.07:116][497]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.41.07:583][515]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.01-08.41.09:903][603]LogEditorTransaction: Redo Clicking on Actors
+[2019.05.01-08.41.10:130][606]LogEditorTransaction: Redo Create Pin Link
+[2019.05.01-08.41.10:243][610]LogEditorTransaction: Redo Select Brush Surface
+[2019.05.01-08.41.10:433][615]LogEditorTransaction: Redo Clicking on Actors
+[2019.05.01-08.41.10:614][619]LogEditorTransaction: Redo Clicking on Actors
+[2019.05.01-08.41.10:869][627]LogEditorTransaction: Redo Create Pin Link
+[2019.05.01-08.41.11:295][644]LogEditorTransaction: Redo Create Pin Link
+[2019.05.01-08.41.11:945][670]LogEditorTransaction: Redo Add Node
+[2019.05.01-08.41.12:595][692]LogEditorTransaction: Redo Move Node
+[2019.05.01-08.41.13:034][705]LogEditorTransaction: Redo Move Node
+[2019.05.01-08.41.13:461][718]LogEditorTransaction: Redo Create Pin Link
+[2019.05.01-08.41.13:847][724]LogEditorTransaction: Redo Create Pin Link
+[2019.05.01-08.41.14:262][733]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.41.14:447][735]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.41.14:912][748]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.41.15:582][768]LogEditorTransaction: Undo Move Node
+[2019.05.01-08.41.16:230][790]LogEditorTransaction: Undo Add Node
+[2019.05.01-08.41.17:121][822]LogEditorTransaction: Undo Create Pin Link
+[2019.05.01-08.41.20:488][953]LogSavePackage: Moving '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/Drone_Body_BlueprintE9E338D846B7F7C079AA70A4865CF673.tmp' to '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Blueprints/Drone_Body_Blueprint.uasset'
+[2019.05.01-08.41.24:630][110]LogSlate: Window 'Drone_Body_Blueprint' being destroyed
+[2019.05.01-08.41.24:643][110]LogSlate: Window 'Drone_Body_Blueprint' being destroyed
+[2019.05.01-08.41.40:725][ 27]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint.Drone_Body_Blueprint
+[2019.05.01-08.42.02:034][373]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.01-08.42.02:444][373]LogSavePackage: Moving '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/DroneTwo_Body_BlueprintA7BC38C34F3B927A8489D88BA4D00762.tmp' to '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Blueprints/DroneTwo_Body_Blueprint.uasset'
+[2019.05.01-08.42.02:458][373]LogSlate: Window 'Drone_Body_Blueprint' being destroyed
+[2019.05.01-08.42.02:517][373]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/DroneTwo_Body_Blueprint.DroneTwo_Body_Blueprint
+[2019.05.01-08.43.11:939][433]LogSavePackage: Moving '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/DroneTwo_Body_BlueprintB31183BC42F0ADBF89AF55BE8AB7A7C5.tmp' to '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Blueprints/DroneTwo_Body_Blueprint.uasset'
+[2019.05.01-08.43.14:435][508]LogSavePackage: Moving '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/MotionControllerMapAB2B81894A8E470D8C7C888EDBB6C121.tmp' to '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.05.01-08.43.14:979][508]LogSavePackage: Moving '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Saved/MotionControllerMap_BuiltData4AEE9EF442AC9FAB95978288E6BC4C6E.tmp' to '../../../../../../Users/brt20/Desktop/VR/GroupDFinal/demo2/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2019.05.01-08.43.16:989][586]LogSlate: Window 'DroneTwo_Body_Blueprint' being destroyed
+[2019.05.01-08.43.17:004][586]LogSlate: Window 'DroneTwo_Body_Blueprint' being destroyed
+[2019.05.01-08.43.17:005][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.01-08.43.48:330][469]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint.Drone_Body_Blueprint
+[2019.05.01-08.44.09:563][350]LogSlate: Window 'Drone_Body_Blueprint' being destroyed
+[2019.05.01-08.44.09:577][350]LogSlate: Window 'Drone_Body_Blueprint' being destroyed
+[2019.05.01-08.45.12:422][116]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Drone_Body_Blueprint.Drone_Body_Blueprint
+[2019.05.01-08.45.14:701][175]LogSlate: Window 'Drone_Body_Blueprint' being destroyed
+[2019.05.01-08.45.14:718][175]LogSlate: Window 'Drone_Body_Blueprint' being destroyed
+[2019.05.01-08.48.24:245][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.49.09:422][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.49.20:801][148]LogEditor: Converting actor from Drone_Body_Blueprint_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DroneTwo_Body to DroneTwo_Body_Blueprint_C
+[2019.05.01-08.49.20:809][148]LogEditorActor: Deleted Actor: Drone_Body_Blueprint_C
+[2019.05.01-08.49.20:866][148]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.05.01-08.49.20:867][148]LogEditor: Converted: DroneTwo_Body to DroneTwo_Body
+[2019.05.01-08.49.20:869][148]EditorErrors: New page: Actor Reattachment
+[2019.05.01-08.50.17:141][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.05.01-08.50.33:284][263]Cmd: EDIT COPY
+[2019.05.01-08.50.33:525][277]Cmd: EDIT PASTE
+[2019.05.01-08.50.40:243][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.50.40:326][672]LogTemp: Repeating last play command: VR Preview
+[2019.05.01-08.50.40:378][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.01-08.50.40:379][672]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.01-08.50.40:391][672]LogPlayLevel: [PlayLevel] Compiling Drone_Body_Blueprint before play...
+[2019.05.01-08.50.40:637][672]LogPlayLevel: [PlayLevel] Compiling DroneTwo_Body_Blueprint before play...
+[2019.05.01-08.50.40:915][672]LogPlayLevel: PlayLevel: Blueprint regeneration took 536 ms (2 blueprints)
+[2019.05.01-08.50.40:915][672]PIE: New page: PIE session: MotionControllerMap (May 1, 2019, 12:50:40 AM)
+[2019.05.01-08.50.40:915][672]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.05.01-08.50.40:939][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023490s)
+[2019.05.01-08.50.40:940][672]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.05.01-08.50.40:940][672]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2019.05.01-08.50.40:940][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.024841s)
+[2019.05.01-08.50.40:993][672]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-08.50.41:020][672]LogInit: FAudioDevice initialized.
+[2019.05.01-08.50.41:032][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-08.50.41:134][672]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.05.01-08.50.41:134][672]LogLoad: Game class is 'GameModeBase'
+[2019.05.01-08.50.41:140][672]LogPhysics: Error: PHYSX: (d:\build\++ue4\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2019.05.01-08.50.41:142][672]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.05.01-04.50.41
+[2019.05.01-08.50.41:142][672]LogWorld: Bringing up level for play took: 0.006426
+[2019.05.01-08.50.41:175][672]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.62
+[2019.05.01-08.50.41:177][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.01-08.50.45:557][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.01-08.50.45:561][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-08.50.45:597][895]LogSlate: Window 'VRLevel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.01-08.50.45:634][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-08.50.45:634][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.01-08.50.45:712][896]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.05.01-08.53.05:048][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-08.53.23:198][638]Cmd: DUPLICATE
+[2019.05.01-08.53.23:198][638]Cmd: ACTOR DUPLICATE
+[2019.05.01-08.53.54:085][408]EditorErrors: New page: Actor attachment
+[2019.05.01-08.54.16:125][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
